@@ -1,0 +1,9 @@
+train: D:\AI_Learning\python\01_Learning\Target_Detection\fatigue_monitor_update\Drowsiness_dataset\images\train
+val: D:\AI_Learning\python\01_Learning\Target_Detection\fatigue_monitor_update\Drowsiness_dataset\images\valid
+test: D:\AI_Learning\python\01_Learning\Target_Detection\fatigue_monitor_update\Drowsiness_dataset\images\test
+
+nc: 3
+names:
+  0: Eyeclosed
+  1: Neutral
+  2: Yawn
